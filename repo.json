@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.younj.locket",
+  "name": "YOUNJ Locket Repository",
+  "description": "YOUNJ Repository • Locket",
+  "packages": [
+    {
+      "identifier": "blocket",
+      "name": "bLocket",
+      "author": "YOUNJ",
+      "version": "1.0.0",
+      "summary": "Locket 𖤐 bLocket",
+      "description": "★ Locket ★\n\n• bLocket.3105\n• Package dành cho Locket.\n• Được phát hành bởi YOUNJ Repository.",
+      "category": "Locket",
+      "tags": [
+        "Locket"
+      ],
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "download": "packages/bLocket.3105",
+      "sha256": "",
+      "size": 0,
+      "supportedOS": [
+        {
+          "minimum": "15.0",
+          "maximum": "26.6.1"
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
+    }
+  ],
+  "icon": "assets/repo-icon.png"
+}
